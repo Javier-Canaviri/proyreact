@@ -1,0 +1,104 @@
+.Cabecera{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    position: relative;
+    background-color: #193a24;
+
+}
+.navOpen{
+    display: flex;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: #193a24;
+    color: white;
+
+    flex-direction: column;
+    align-items: center;
+}
+.navLink{
+    display: flex;
+    font-size: 2em;
+    font-weight: 400;
+    color: white;
+    padding-top: 90px;
+}
+.creditolink{
+    
+    display: flex;
+    font-size: 1.3em;
+    font-weight: 500;
+    color: white;
+    padding: 3px;
+    border-radius: 4px;
+    background-color: rgb(4, 139, 94);
+
+}
+.navbar navbar-expand-lg bg-body-tertiary{
+    color: #193a24;
+}
+/*.border{
+    display: flex;
+    height: 1px;
+    animation-name: animacion;
+    animation-duration: 1s;
+    background-color: lightseagreen;
+
+}
+@keyframes animacion{
+    0%{
+        height: 0px;
+        
+    }
+    100%{
+        height: 1px;
+    }
+}*/
+.logo{
+    display: flex;
+    color: white;
+    font-weight: 600;
+}
+@media(min-width:1500px){
+    .logo{
+        font-size: 1.5em;
+
+    }
+.Cabecera{
+    align-items: center;
+    align-content: center;
+    justify-content: space-evenly;
+    height: 60px;
+    
+}
+.linksContainer{
+    justify-content: space-evenly;
+    display: flex;
+    width: 50%;
+    flex-direction: row;
+}
+.navLink{
+    padding-top: 4px;
+    font-size: 1.3em;
+    font-weight: 600;
+    transition: 0.5s;
+}
+.navLink:hover{
+    font-size: 1.5em;
+}
+.navOnScroll{
+    align-items: center;
+    align-content: center;
+    justify-content: space-evenly;
+    height: 60px;
+    background-color: #193a24;
+}
+}
+.navOnScroll{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #193a24;
+}
