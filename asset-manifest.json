@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/proyreact/static/css/main.91f182f2.css",
+    "main.js": "/proyreact/static/js/main.b2f742cb.js",
+    "static/js/787.0fad7b97.chunk.js": "/proyreact/static/js/787.0fad7b97.chunk.js",
+    "static/media/INI5.png": "/proyreact/static/media/INI5.7d68a47b31115bbb2488.png",
+    "static/media/INI6.png": "/proyreact/static/media/INI6.fd59cb3c2ad6b1fa3266.png",
+    "static/media/lugar1.webp": "/proyreact/static/media/lugar1.aafdce5810225af7e823.webp",
+    "static/media/INI4.jpg": "/proyreact/static/media/INI4.146555374da660e49f42.jpg",
+    "static/media/INI1.png": "/proyreact/static/media/INI1.a8358580e73aec5d9b3e.png",
+    "static/media/INI3.jpg": "/proyreact/static/media/INI3.0d69ffb0e967cdf76ead.jpg",
+    "static/media/lugar2.jpg": "/proyreact/static/media/lugar2.1374915d030eade43493.jpg",
+    "static/media/ACT2.jpg": "/proyreact/static/media/ACT2.0d65b69287a6b1c7b459.jpg",
+    "static/media/INI2.webp": "/proyreact/static/media/INI2.80ea2d8f7a91e0a2e9df.webp",
+    "static/media/Captura de pantalla 2023-12-11 180501.png": "/proyreact/static/media/Captura de pantalla 2023-12-11 180501.95aae67129a2bae6b463.png",
+    "static/media/ACT4.jpg": "/proyreact/static/media/ACT4.bfe278441588f1387eb4.jpg",
+    "static/media/lugar3.webp": "/proyreact/static/media/lugar3.03ac049fe64ce57927fc.webp",
+    "static/media/ACT3.jpg": "/proyreact/static/media/ACT3.8a62d50295e352e17f31.jpg",
+    "static/media/ACT1.webp": "/proyreact/static/media/ACT1.2d976b7d0246aa5145cb.webp",
+    "static/media/m6.jpg": "/proyreact/static/media/m6.a00663015fc900cd57ef.jpg",
+    "static/media/m4.jpg": "/proyreact/static/media/m4.b2d520cff3815bc98a11.jpg",
+    "static/media/m2.png": "/proyreact/static/media/m2.51ba35ef7406d801387d.png",
+    "static/media/m1.jpg": "/proyreact/static/media/m1.5647882e495dda2dc2b7.jpg",
+    "static/media/m3.jpg": "/proyreact/static/media/m3.40230afd1eacea5208b0.jpg",
+    "static/media/m5.webp": "/proyreact/static/media/m5.ace4f145feaba967a8be.webp",
+    "index.html": "/proyreact/index.html",
+    "main.91f182f2.css.map": "/proyreact/static/css/main.91f182f2.css.map",
+    "main.b2f742cb.js.map": "/proyreact/static/js/main.b2f742cb.js.map",
+    "787.0fad7b97.chunk.js.map": "/proyreact/static/js/787.0fad7b97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91f182f2.css",
+    "static/js/main.b2f742cb.js"
+  ]
+}
